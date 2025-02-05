@@ -16,9 +16,9 @@
   />
 </p>
 
-- 🔭 I’m currently working on [stockmanagementsystem](https://github.com/ramygouiaa/stockmanagement)
+- 🔭 I’m currently working on [AI Agents](https://github.com/ramygouiaa/AI-agents)
 
-- 🌱 I’m currently learning **Angular 18,**
+- 🌱 I’m currently learning **AI Agents,**
 
 - 💬 Ask me about **Spring boot, Angular, MEAN, Blockchain**
 
